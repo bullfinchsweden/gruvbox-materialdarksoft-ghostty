@@ -7,7 +7,7 @@ Gruvbox Material Dark Soft for Ghostty.
 
 * [Gruvbox color scheme](https://github.com/morhetz/gruvbox)
 
-* [Gruvbox Material color scheme](https://github.com/sainnhe/gruvbox-material) <br/>
+* [Gruvbox Material](https://github.com/sainnhe/gruvbox-material) <br/>
 
 Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
