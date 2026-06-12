@@ -1,7 +1,7 @@
 # Gruvbox Material Dark Soft Ghostty
 Gruvbox Material Dark Soft for Ghostty.
 
-<img width="103" height="103" alt="Coffee" src="https://github.com/user-attachments/assets/5edc52a6-fe76-4fbe-9de5-7ab5e339e787" /><br/>
+<img width="103" height="103" alt="Boxes" src="https://github.com/user-attachments/assets/25aec71e-38b2-49fa-b1c5-ba65ceb083c2" /><br/>
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
