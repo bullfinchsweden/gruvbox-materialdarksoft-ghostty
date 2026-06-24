@@ -5,7 +5,7 @@ Gruvbox Material Dark Soft for Ghostty.
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
-* [Gruvbox color scheme](https://github.com/morhetz/gruvbox)
+* [Gruvbox color palette](https://github.com/morhetz/gruvbox)
 
 * [Gruvbox Material](https://github.com/sainnhe/gruvbox-material)<br/>
 
