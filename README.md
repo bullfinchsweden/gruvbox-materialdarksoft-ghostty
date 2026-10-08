@@ -1,7 +1,7 @@
 # Gruvbox Material Dark Soft Ghostty
 Gruvbox Material Dark Soft for Ghostty.
 
-<img src="Images/Boxes.png"><br/>
+<img src="Images/Ghostty.jpg"><br/>
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
