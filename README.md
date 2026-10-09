@@ -9,6 +9,8 @@ Gruvbox Material Dark Soft for Ghostty.
 
 * [Gruvbox Material](https://github.com/sainnhe/gruvbox-material)<br/>
 
+<img src="Images/Gruvbox.jpg" width="768" height="320" /><br/>
+
 Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Gruvbox Material Dark Soft*
