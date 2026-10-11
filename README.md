@@ -1,4 +1,4 @@
-# Gruvbox Material Dark Soft Ghostty 🍪
+# Gruvbox Material Dark Soft Ghostty
 Gruvbox Material Dark Soft for Ghostty.
 
 <img src="Images/Ghostty.jpg"><br/>
