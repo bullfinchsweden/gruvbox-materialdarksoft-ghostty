@@ -15,6 +15,4 @@ Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Gruvbox Material Dark Soft*
 
-<img src="Images/GruvboxMaterialDarkSoftColors1.png" width="260" height="83" /><br/>
-
-<img src="Images/GruvboxMaterialDarkSoftColors2.png" width="785" height="398" />
+<img src="Images/GruvboxMaterialDarkSoftGhostty.png" width="764.5" height="376.5" />
